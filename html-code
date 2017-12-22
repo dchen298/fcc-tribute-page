@@ -1,0 +1,114 @@
+<style>
+    body {
+      background-color: #DCDCDC;
+  }
+</style>
+< class="container-fluid">
+  <div class="row">
+    <div class="col-xs-12">
+  <h1 class="text-center">Elon Musk</h1>
+  <h2 class="text-center"><em>"I'm a Silicon Valley guy. I just think people from Silicon Valley can do anything."</em></h2>
+      <center><a href="https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring" target="_blank"><img src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5b234f6039a37e2b455e337b8421aa5688a098e4_2880x1620.jpg?w=1200" class="img-responsive" alt="Elon Musk."></a></center>
+    <p class=text-center>Elon Musk discusses his new project digging tunnels under LA, the latest from Tesla and SpaceX and his motivation for building a future on Mars in conversation with TED's Head Curator, Chris Anderson.</p>
+      
+      <h3 class="text-center">Elon Musk: Past, Present, Future</h3>
+      <ul>
+        <li><strong>Jan 28, 1971:</strong> Born to engineer father and model mother.</li>
+        <li><strong>Age 3:</strong> Drifts off as if deaf (he was not) so parents got his adenoids removed.</li>
+        <li> Reads 10 hours per day.</li>
+        <li><strong>Age 8:</strong> Runs out of books to read at library, reads entire Encyclopedia Britannica.</li>
+        <li><strong>Age 9:</strong> Parents divorce, chooses to live with father.</li>
+        <li> Gets bullied at school, thrown down a staircase.</li>
+        <li> Learns BASIC by finishing a 6-month course in 3 days.</li>
+        <li><strong>Age 12:</strong> Writes video game Blastar, sells it for $500.</li>
+        <li><strong>Age 14:</strong> Has existential crisis - reads The Hitchhiker's Guide to The Galaxy looking for an answer.</li>
+        <li> Decides on his life mission - to save humanity.</li>
+        <li> Father takes him to work and makes him do real work.</li>
+        <li> Gets Canadian citizenship through mother to eventually move to the US.</li>
+        <li><strong>Age 17:</strong> Moves to Canada.</li>
+        <li> Works odd jobs, stays with relatives.</li>
+        <li> Gets a job shoveling dirt in boiler room for $18/hour.</li>
+        <li><strong>1989 (Age 18):</strong> Starts college in Ontario.</li>
+        <li> Cold calls execs he reads about in the news asking to meet for lunch.</li>
+        <li> Top exec of bank responds and offers an internship.</li>
+        <li> Shows genius in banking but gets chewed out for using the exec coffee machine.</li>
+        <li> Sells computers out of dorm room.</li>
+        <li> Transfers to UPenn double majoring in physics and economics.</li>
+        <li><strong>1992:</strong> Runs a speakeasy from his house in college.</li>
+        <li><strong>1994:</strong> Gets Wharton economics degree (and later physics degree).</li>
+        <li> Works two intern jobs: in ultracapacitators reserach and video games.</li>
+        <li><strong>[Kimbal]</strong> Brainstorms idea for medical startup with brother.</li>
+        <li> Leaves Stanford PhD after 2 days.</li>
+        <li><strong>1995:</strong> Starts Zip2 with brother, coding it himself (hairballs).</li>
+        <li> Gets $28,000 from father to start with.</li>
+        <li><strong>1995:</strong> Sleeps in office first 3 months.</li>
+        <li><strong>1996:</strong> Raises first investment money ($3 Million).</li>
+        <li><strong>[Soon After]</strong> Gets pushed out from CEO to CTO by his investors.</li>
+        <li><strong>1999:</strong> Gets $22 Million from sale of Zip2.</li>
+        <li><strong>Mar 1999:</strong> Starts X.com - an online bank (with his own money).</li>
+        <li> Buys McLaren F1 for $1 Million - soon crashes it.</li>
+        <li> Competes for customers with another banking startup Confinity.</li>
+        <li><strong>Mar 2000:</strong> Merges with Confinity forming Paypal.</li>
+        <li><strong>[Max Levchin]</strong> Argues with CTO over which operating system to use (PC or Linux).</li>
+        <li><strong>2000:</strong> Marries college girlfriend Justine.</li>
+        <li><strong>Sep 2000:</strong> Gets ousted as CEO from Paypal (while on honeymoon).</li>
+        <li> Invests more money into Paypal regardless.</li>
+        <li> Almost dies from malaria he gets on vacation.</li>
+        <li> Moves to LA to be closer to the space industry.</li>
+        <li> Learns how to build rockets from books.</li>
+        <li><strong>Oct 2001:</strong> Takes trips to Russia to buy a rocket to send to Mars.</li>
+        <li><strong>Feb 2002:</strong> Negotiations fail, realizes rockets are artificially overpriced.</li>
+        <li><strong>May 2002: [Nevada Alexander]</strong> First son is born.</li>
+        <li><strong>Jun 2002:</strong> Starts SpaceX to build his own rockets (with his own money).</li>
+        <li><strong>Jul 2002:</strong> Gets $250 Million from sale of Paypal ($180 Million after tax).</li>
+        <li> Thinks about building electric cars.</li>
+        <li><strong>2003:</strong> Meets JB Straubel, electric car enthusiast.</li>
+        <li><strong>Jan 2004: [Marc] [Martin]</strong> Meets Tesla founders who pitch exactly what he wanted - electric car.</li>
+        <li><strong>Apr 2004:</strong> Invests in Tesla, suggesting JB and Tesla founders work together.</li>
+        <li><strong>2004:</strong> Twin sons are born through IVF.</li>
+        <li><strong>Mar 2006:</strong> His first ever rocket launches and explodes.</li>
+        <li><strong>July 2006:</strong> Wins NASA contracts to demo cargo delivery to ISS and make Falcon-9.</li>
+        <li><strong>Aug 2008:</strong> Becomes 1st investor in SolarCity (cousins' company).</li>
+        <li><strong>End of 2006:</strong> Triplet sons are born.</li>
+        <li><strong>Mar 2007:</strong> 2nd launch fails.</li>
+        <li><strong>Mar 2008:</strong> First Tesla customers get their Roadsters at $109,000.</li>
+        <li><strong>Jun 2008:</strong> Divorces wife.</li>
+        <li><strong>Aug 2008:</strong> 3rd launch fails destroying 4 satellites aboard including NASA's.</li>
+        <li><strong>Aug 2008:</strong> SpaceX and Tesla are both running out of cash.</li>
+        <li><strong>Sep 2008:</strong> 4th launch succeeds.</li>
+        <li><strong>Dec 2008:</strong> Wins NASA contract for 12 flights for $1.6 Billion.</li>
+        <li> Cries realizing SpaceX just barely escaped bankruptcy.
+        <li><strong>Dec 2008:</strong> Hours before Tesla would have gone bankrupt - raises funding.</li>
+        <li><strong>Mar 2009:</strong> Unveils the first Tesla Model S.</li>
+        <li><strong>Oct 2010:</strong> Buys a car factory for cheap from Toyota's failed joint venture.</li>
+        <li><strong>Jun 2010:</strong> Tesla goes public at $17 per share, up $24 by end of day.</li>
+        <li><strong>2010:</strong> Marries Talulah Riley.</li>
+        <li><strong>2011:</strong> Promises to send humans to Mars by 2021-2031.
+        <li><strong>Sep 2011:</strong> Announces reusable rockets (to make cost of space flight 100 times cheaper).</li></li>
+        <li><strong>Feb 2012:</strong> Unveils Model X (SUV).</li>
+        <li><strong>Mar 2012:</strong> Divorces Riley.</li>
+        <li><strong>May 2012:</strong> Dragon docks with the International Space Station.</li>
+        <li><strong>Jun 2012:</strong> Starts shipping the Model S at $75,000.</li>
+        <li><strong>Sep 2012:</strong> Starts trying to land dummy rocket Grasshopper vertically from small altitude.</li>
+        <li><strong>Sep 2012:</strong> Launches supercharger network (for long distance driving).</li>
+        <li><strong>Jul 2013:</strong> Marries Riley again.</li>
+        <li><strong>Aug 2013:</strong> Publishes the design of Hyperloop high-speed rail.</li>
+        <li><strong>Apr 2013:</strong> Attempts to soft land rocket from orbit on water.</li>
+        <li><strong>Apr 2014:</strong> Attempts to land rocket from orbit on a ship.</li>
+        <li><strong>Jun 2014:</strong> Starts building the Gigafactory to mass produce batteries.</li>
+        <li><strong>Apr 2015:</strong> Unveils Powerwall.</li>
+        <li><strong>Sep 2015:</strong> First customers get their Model X.</li>
+        <li><strong>Jun 2015:</strong> Rocket launch fails (first failure after 19 successful launches).</li>
+        <li><strong>Nov 2015: [Jeff] [Elon]</strong> Challenged by Jeff Bezos who lands a suborbital rocket.</li>
+        <li><strong>Dec 2015:</strong> Rocket landing succeeds (1st reusable rocket to reach orbit).</li>
+        <li><strong>End of 2016:</strong> Launches his largest rocket Falcon Heavy.</li>
+        <li><strong>2017:</strong> Gigafactory starts production.</li>
+        <li><strong>Mid 2017:</strong> First customers get their Model 3 - a $35,000 car.</li>
+        <li><strong>2020:</strong> First Hyperloop trains start running.</li>
+        <li><strong>2025:</strong> Mars Colonial Transporter launches.</li>
+        <li><strong>In Musk's Lifetime:</strong> Tickets to Mars are now at $500,000 a piece.</li>
+        </ul>
+    
+    <p class="text-center">You can learn more about Mr. Musk by viewing a <a href="https://www.thefamouspeople.com/profiles/elon-musk-5562.php" target="_blank">biographical profile</a>, or by visiting his <a href="https://en.wikipedia.org/wiki/Elon_Musk" target="_blank">Wikipedia page</a>.</p>
+  </div>
+</div>
